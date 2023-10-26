@@ -99,3 +99,32 @@ form{
     display: flex;
     justify-content: center;
 }
+
+.load-more{
+    border: 1px solid black;
+    width: 200px;
+    text-align: center;
+    font-family: play-fari;
+    border-radius: 0;
+    
+}
+
+.col-w-btn{
+    display: flex;
+    justify-content: center;
+    padding: 150px;
+}
+
+/* footer */
+footer{
+    background-color: rgb(199, 197, 197);
+    padding: 20px;
+}
+
+.footer-right{
+    text-align: right;
+    padding: 5px;
+}
+.footer-right span{
+    padding: 0 10px;
+}
