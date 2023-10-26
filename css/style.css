@@ -49,3 +49,20 @@ nav{
     font-size: 17px;
     font-family: play-fari;
 }
+
+.fari-font{
+    font-family: play-fari;
+}
+/* cards */
+.card-title{
+    font-family: play-fari; 
+    
+}
+
+.card-row{
+    margin-top: 150px;
+}
+
+.md-text{
+    font-size: 25px;
+}
