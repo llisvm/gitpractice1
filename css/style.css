@@ -66,3 +66,36 @@ nav{
 .md-text{
     font-size: 25px;
 }
+/* form */
+.form{
+    padding: 150px;
+    
+   
+}
+.email{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 0%;
+    border-color: black;
+    background-color: rgb(199, 197, 197);
+    
+    
+}
+
+.container-w-form{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(199, 197, 197);
+    margin-top: 150px;
+}
+
+::placeholder{
+    font-family: play-fari;
+    color: black;
+}
+
+form{
+    display: flex;
+    justify-content: center;
+}
