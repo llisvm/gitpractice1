@@ -1,0 +1,37 @@
+@font-face {
+    font-family: play-fair;
+    src: url(../fonts/PlayfairDisplay-Regular.ttf);
+}
+
+nav{
+    background-color: white;
+    height: 50px;
+}
+.nav-bar{
+    display: flex;
+}
+.nav-logo{
+    flex-basis: 50%;
+    
+}
+.nav-logo img{
+    
+    padding-top: 10px;
+    width: 120px;
+}
+.nav-menu{
+    flex-basis: 50%;
+}
+.nav-bar-menu{
+    display: flex;
+    justify-content: right;
+    margin: 0;
+   
+}
+.nav-bar-menu li{
+    list-style-type: none;
+    padding: 10px 35px;
+    font-family: play-fair;
+    color: black;
+    font-size: 20px;
+}
